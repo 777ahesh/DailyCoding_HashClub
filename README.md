@@ -2,7 +2,7 @@
 
 #### Day-1
 
-####  Problem Link: https://leetcode.com/problems/find-the-town-judge/
+####  Problem Link: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 ##### Solution:
 <pre>Using a unordered_map to store the first list. 
 1)So, as the unordered_map contains (string, int) as the 
