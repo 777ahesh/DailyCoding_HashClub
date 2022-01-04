@@ -27,3 +27,16 @@ So, as a nested vector is given with its each inner vector of size 2.
 We can simply iterate over the outer vector and using indexing check the trust of everybody in the town.
 And hence return the town judge if present else -1
 </pre> 
+
+#### Day-3
+
+####  Problem Link: https://leetcode.com/problems/unique-email-addresses/
+##### Solution:
+<pre>1. Local name and Domain name is seperated by '@'
+2. If there is a period '.' in local name it would be ignored.
+3. If there is a plus '+' in the local name the further local name should not be considered.
+
+So, Create a function for the above validation. loop over the characters in the string till the '@' or '+' is reached and store it in temporary string.
+Ignore the '.' using if condition and at the end return 
+the appended temporary string with @ and the remaning Original string (email).
+</pre> 
