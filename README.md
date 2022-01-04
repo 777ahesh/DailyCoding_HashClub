@@ -36,7 +36,8 @@ And hence return the town judge if present else -1
 2. If there is a period '.' in local name it would be ignored.
 3. If there is a plus '+' in the local name the further local name should not be considered.
 
-So, Create a function for the above validation. loop over the characters in the string till the '@' or '+' is reached and store it in temporary string.
+So, Create a function for the above validation. loop over the characters in the string till
+the '@' or '+' is reached and store it in temporary string.
 Ignore the '.' using if condition and at the end return 
 the appended temporary string with @ and the remaning Original string (email).
 I have used an unordered_set so that no duplicate values are stored.
