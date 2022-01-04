@@ -1,5 +1,8 @@
 <h1 align =center> DailyCoding_HashClub </h1>
 
+###  Coding Platform - <a href="https://leetcode.com/777ahesh/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&style=flat-square"/></a>
+
+
 #### Day-1
 
 ####  Problem Link: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
