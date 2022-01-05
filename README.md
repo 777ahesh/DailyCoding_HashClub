@@ -42,3 +42,11 @@ Ignore the '.' using if condition and at the end return
 the appended temporary string with @ and the remaning Original string (email).
 I have used an unordered_set so that no duplicate values are stored.
 </pre> 
+
+#### Day-4
+
+####  Problem Link: https://leetcode.com/problems/maximum-subarray/
+
+<pre>Simply initiale the First element of the vector(array) to currSum, maxSum.
+And then just iterate over array and return the sum of the subarray which gives maximum sum using max function.
+</pre> 
