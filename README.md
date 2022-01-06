@@ -50,3 +50,13 @@ I have used an unordered_set so that no duplicate values are stored.
 <pre>Simply initiale the First element of the vector(array) to currSum, maxSum.
 And then just iterate over array and return the sum of the subarray which gives maximum sum using max function.
 </pre> 
+
+#### Day-5
+
+####  Problem Link: https://leetcode.com/problems/shuffle-string/
+
+<pre>1. Create a new string and initialize to the given string.
+2. In this new string(duplicate) just try to reinitialize according t0 ordered indices.
+For this iterate over the size of the given indices vector and use the below to reinialize the string characters 
+        Resultant_string[indices[i]] = Original_String[i]
+</pre> 
