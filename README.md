@@ -1,7 +1,15 @@
 <h1 align =center> DailyCoding_HashClub </h1>
 
-###  Coding Platform - <a href="https://leetcode.com/777ahesh/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&style=flat-square"/></a>
+<img align=right width=250px src="https://user-images.githubusercontent.com/91421427/148388054-65a9a123-a20f-43a3-aa1d-5f461b92d651.png"/>
+<br/><br/><br/><br/>
 
+###  About I2IT Hash Club
+The Hash Club is a special interest group initiated under ACM Student Chapter I²IT lead by a group of enthusiastic and motivated coders with an aim to bring fun in learning DSA.🙌🏻
+
+<h3 style="text-decoration: none;">Hash Club I2IT Website: https://varshitha1707.github.io/the-hash-club/ </h3>
+<hr/>
+
+###  Coding Platform - <a href="https://leetcode.com/777ahesh/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&style=flat-square"/></a>
 
 #### Day-1
 
