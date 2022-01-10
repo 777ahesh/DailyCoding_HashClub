@@ -75,6 +75,17 @@ the string characters
 
 ####  Problem Link: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 
-<pre>1. concatenate all the characters in the given strings one and  two and store it in two different temporary string.
-2. check for the equivalence and return the boolean value.
+<pre>1. Concatenate all the characters in the given strings one and  two and store it in two
+different temporary string.
+2. Check for the equivalence and return the boolean value.
+</pre> 
+
+#### Day-7
+
+####  Problem Link: https://leetcode.com/problems/trapping-rain-water/
+
+<pre>1. Create two arrays for storing maximum height from left and right
+2. And the answer for whether the particular block can store water can be calculated using 
+the formula minimum of(leftMax[At_that_index],rightMax[At_that index]) - heights[At_that_index].
+3. Sum up all the blocks using a loop and the above formula and return the answer
 </pre> 
