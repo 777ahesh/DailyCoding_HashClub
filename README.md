@@ -69,4 +69,12 @@ using max function.
 For this iterate over the size of the given indices vector and use the below to reinitialize
 the string characters 
         Resultant_string[indices[i]] = Original_String[i]
+</pre>
+
+#### Day-6
+
+####  Problem Link: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+
+<pre>1. concatenate all the characters in the given strings one and  two and store it in two different temporary string.
+2. check for the equivalence and return the boolean value.
 </pre> 
