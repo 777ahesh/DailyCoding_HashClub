@@ -89,3 +89,10 @@ different temporary string.
 the formula minimum of(leftMax[At_that_index],rightMax[At_that index]) - heights[At_that_index].
 3. Sum up all the blocks using a loop and the above formula and return the answer
 </pre> 
+
+#### Day-8
+
+####  Problem Link: https://leetcode.com/problems/intersection-of-two-arrays/
+
+<pre>Create Hastable for the given vectors and and simply compare the hash values of the two hash tables and the common values.
+</pre> 
