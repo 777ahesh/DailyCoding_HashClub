@@ -97,4 +97,15 @@ the formula minimum of(leftMax[At_that_index],rightMax[At_that index]) - heights
 <pre>Create Hastable for the given vectors and and simply 
 compare the hash values of the two hash tables and the
 common values.
+</pre>
+
+#### Day-9
+
+####  Problem Link: https://leetcode.com/problems/binary-search/
+
+<pre>Binary Search Algorithm:
+1. Compare x with the middle element.
+2. If x matches with the middle element, we return the mid index.
+3. Else If x is greater than the mid element, then x can only lie in the right half subarray after the mid element. So we recur for the right half.
+4. Else (x is smaller) recur for the left half.
 </pre> 
